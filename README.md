@@ -58,4 +58,4 @@ This example response only has one entry in the results array, but we expect the
 
 
 ## Setup
-Load this project in VSCode from Git, or download and open as JAVA project Run the application and visit http://localhost:8080/HubSpot/api/processCalls Response: 200 OK
+Load this project in VSCode from Git, or download and open it as a JAVA project. Run the application and visit http://localhost:8080/HubSpot/api/processCalls Response: 200 OK
